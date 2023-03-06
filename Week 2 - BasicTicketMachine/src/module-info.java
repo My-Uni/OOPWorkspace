@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author morgandale
+ *
+ */
+module BasicTicketMachine {
+}
